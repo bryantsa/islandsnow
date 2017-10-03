@@ -3,3 +3,18 @@
   box-shadow:none;
   border: none;
 }
+
+<<<<<<< HEAD
+.ui.borderless.middle.menu{
+  box-shadow: none;
+  border:none;
+=======
+ui.borderless.middle.menu{
+
+}
+
+.grey-background {
+  background-color: lightgray;
+  height: 200px;
+>>>>>>> master
+}
